@@ -99,3 +99,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+sounds/Siri_all_sounds.mp3
